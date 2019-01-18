@@ -1,0 +1,11 @@
+.wrapper { 
+     background: rgb(175, 175, 175);
+     background-image: url("https://cdn.allwallpaper.in/wallpapers/1920x1080/6733/comics-spider-man-marvel-1920x1080-wallpaper.jpg");
+     height: 100%;
+     display: flex;
+     flex-flow: row wrap;
+     justify-content: space-around;
+     align-content: flex-start;
+     overflow: auto;
+     padding-bottom: 50px;
+}
